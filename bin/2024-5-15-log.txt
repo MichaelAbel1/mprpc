@@ -1,0 +1,4 @@
+15:52:9 => first log message!15:52:9 => /root/mprpc/example/callee/friendservice.cc:main4515:55:21 => first log message!
+15:55:21 => /root/mprpc/example/callee/friendservice.cc:main45
+15:56:1 => first log message!
+15:56:1 => /root/mprpc/example/callee/friendservice.cc:main45

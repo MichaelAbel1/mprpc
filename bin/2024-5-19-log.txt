@@ -1,0 +1,10 @@
+21:59:13 => [INFO] service_name:FriendServiceRpc
+21:59:13 => [INFO] method_name:GetFriendsList
+21:59:13 => [INFO] RpcProvider start service at ip:127.0.0.1 port:8000
+22:31:37 => [INFO] service_name:FriendServiceRpc
+22:31:37 => [INFO] method_name:GetFriendsList
+22:31:37 => [INFO] RpcProvider start service at ip:127.0.0.1 port:8000
+22:32:33 => [ERROR] get znode error path:/FriendServiceRpc/GetFriendsList
+22:33:22 => [INFO] service_name:FriendServiceRpc
+22:33:22 => [INFO] method_name:GetFriendsList
+22:33:22 => [INFO] RpcProvider start service at ip:127.0.0.1 port:8000

@@ -1,0 +1,7 @@
+# set(SRC_LIST userservice.cc ../user.pb.cc)
+set(SRC_LIST friendservice.cc ../friend.pb.cc)
+add_executable(provider ${SRC_LIST})
+# set(CMAKE_CXX_FLAGS "${CMAKE_CXX_FLAGS} -pthread -I/usr/local/include")
+# link_directories(/usr/local/lib)
+# target_link_libraries(provider protobuf)
+target_link_libraries(provider mprpc protobuf)
